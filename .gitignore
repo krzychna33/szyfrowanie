@@ -1,5 +1,5 @@
 /.venv
 .idea
-large_data.json
-encrypted_data.bin
-decrypted_data.json
+lab1/large_data.json
+lab1/encrypted_data.bin
+lab1/decrypted_data.json
