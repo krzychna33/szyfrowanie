@@ -1,6 +1,6 @@
 ## Lab2
 
-Source code for AES CTR implementation (usage) is located in src/lab2/lab2.ts
+Source code for AES CTR implementation (usage) is located in src/lab2/lab2.ts in node-playground package.
 
 ```
 Input file size: 10 Gigabytes
@@ -21,3 +21,7 @@ total 62914832
 -rw-r--r--  1 krzysiekpriv  staff    16B Apr  1 20:34 large-file.txt.encrypted.enc.iv
 -rw-r--r--  1 krzysiekpriv  staff    32B Apr  1 20:34 large-file.txt.encrypted.enc.key
 ```
+
+Experiment ran on machine:
+
+![img.png](img.png)
