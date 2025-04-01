@@ -24,4 +24,4 @@ total 62914832
 
 Experiment ran on machine:
 
-![img.png](img.png)
+![machine.png](docs/machine.png)
